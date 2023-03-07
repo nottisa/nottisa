@@ -34,4 +34,4 @@ Here are some ideas to get you started:
 - theonewhohasthisemail@gmail.com (Nice email I do say so myself...)
 
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=bobthedeveloper90368&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&mode=weekly)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=bobthedeveloper90368&theme=dark&mode=weekly)](https://git.io/streak-stats)
