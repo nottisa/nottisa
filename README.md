@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 #### I'm workin on.... stuffs....
 - RORATE (Possibly open-source Roblox antihack)
 - Websites
-- Guilded botd
+- Guilded bots
 - My own personal opensourced cloud!
 
 #### Reach me....
