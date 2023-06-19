@@ -30,7 +30,6 @@ Here are some ideas to get you started:
 - My own personal opensourced cloud!
 
 #### Reach me....
-- +1-(704)-750-1740 (Don't worry this is my specifically-so-Github-can-contact-me phonenumber)
 - theonewhohasthisemail@gmail.com (Nice email I do say so myself...)
 
 
