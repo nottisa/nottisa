@@ -33,4 +33,4 @@ Here are some ideas to get you started:
 - theonewhohasthisemail@gmail.com (Nice email I do say so myself...)
 
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=bobthedeveloper90368&theme=dark&mode=weekly)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=bobthedev90368)](https://git.io/streak-stats)
