@@ -21,7 +21,6 @@ Here are some ideas to get you started:
 - Hyper Distracted with Everything
 - Makes repos and never finishes them
 - Spends way to much time on Github
-- First Transgender programmer I've heard of
 
 #### I'm workin on.... stuffs....
 - RORATE (Possibly open-source Roblox antihack)
