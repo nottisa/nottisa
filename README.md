@@ -7,7 +7,7 @@
 - Makes repos and never finishes them
 - Spends way too much time on Github
 
-#### I'm workin on.... stuffs....
+#### I'm workin on.... projects....
 - [Maya](https://www.guilded.gg/Maya)
 - My own personal opensourced cloud!
 
