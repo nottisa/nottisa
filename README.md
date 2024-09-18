@@ -11,6 +11,6 @@
 - [Maya](https://www.guilded.gg/Maya)
 - My own personal opensourced cloud!
 
-[![Top Launguages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=nottisa&theme=dracula)](https://github.com/anuraghazra/github-readme-stats) [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=galbkyslmgg0a5so1hurqw50k&cover_image=false&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=galbkyslmgg0a5so1hurqw50k&redirect=true)
+[![Top Launguages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=nottisa&theme=dracula)](https://github.com/anuraghazra/github-readme-stats) ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nottisa&show_icons=true&theme=dracula)
 
 [![An image of @nottisa's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/nottisa)](https://holopin.io/@nottisa)
