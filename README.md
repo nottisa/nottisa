@@ -1,15 +1,12 @@
-### Hi there 👋
+### Hi there, I'm Joe 👋
 
-#### I am... Uh... Um... Special?
-- Openstack Lover
-- Python and Javascript Developer
+#### About me!
+- Currently working at a mega-church
+- I'm currently learning Kubernetes 
 - Hyper Distracted with Everything
-- Makes repos and never finishes them
-- Spends way too much time on Github
+- Ask me about my **backend designs and technology discovery** 
+- Contact me via email `theonewhohasthisemail@gmail.com`
 
-#### I'm workin on.... projects....
-- [Maya](https://www.guilded.gg/Maya)
-- My own personal opensourced cloud!
 
 [![Top Launguages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=nottisa&theme=dracula)](https://github.com/anuraghazra/github-readme-stats) ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nottisa&show_icons=true&theme=dracula)
 
